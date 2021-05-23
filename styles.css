@@ -1,0 +1,11 @@
+body {
+    font-family:   "Work Sans", "Bold 700";
+    background-color: rgb(130, 90, 241);
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    margin: 20%;
+}
